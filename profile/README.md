@@ -8,7 +8,7 @@
 <!-- Logo / wordmark placeholder — replace with final SVG asset -->
 # RYAN INDUSTRIES
 
-**We Build What Others Import.**
+**Made in America, Born in Kentucky.**
 
 *Florence, Kentucky · American Robotics Manufacturing*
 
@@ -52,11 +52,6 @@ We exist because American manufacturing shouldn't have to outsource the future.
 ## The Company
 
 Ryan Industries is a family operation — everyone at the table has skin in the game.
-
-- **Amy Ryan** — CEO · Strategy, operations, business direction
-- **Patrick Ryan** — CTO · ROS2, digital twins, software, IT infrastructure
-- **Jeff Ryan** — CExO · Shop floor, mechanical engineering, fabrication
-- **Micki Ryan** — Corporate Secretary · Governance, compliance, documentation
 
 We're in prototype phase. We iterate fast. If you need a domestic robotics manufacturing partner that actually makes things — [let's talk](https://ryanindustries.io).
 
