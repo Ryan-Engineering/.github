@@ -28,10 +28,10 @@ We exist because American manufacturing shouldn't have to outsource the future.
 
 | | |
 |---|---|
-| **Additive Manufacturing** | Bambu Lab H2D & P2S — engineering polymers, CF composites, 50μm precision |
-| **CNC Machining** | 3-axis machining center — all metals, structural components, CoBot hardware |
-| **Wire EDM** | Built in-house. Rigid screw chassis. Tight tolerances, hardened materials. |
-| **Manual Machining** | Mill/Drill Lathe — one-offs, quick-turn mods, secondary ops |
+| **Additive Manufacturing** | Multi-printer fleet — engineering polymers, CF composites, 50μm precision, production-grade output |
+| **CNC Machining** | Multi-axis machining — all metals, structural components, CoBot hardware, tight tolerances |
+| **Wire EDM** | Custom-built in-house. Rigid screw chassis. Hardened materials, complex profiles, micro-features. |
+| **Manual Machining** | Full machining bench — rapid prototyping, quick-turn mods, secondary ops |
 | **ROS2 Software** | CoBot control systems — built by us, not licensed |
 | **Digital Twin** | In-house simulation and virtual validation platform |
 
